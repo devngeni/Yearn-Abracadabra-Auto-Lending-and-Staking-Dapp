@@ -6,6 +6,7 @@ Users are able to withdraw these ibTokens from the initial protocol and deposit 
 
 This is done on; Alchemix, Abracadabra and Yearn lending platforms. This version will run on the Ethereum blockchain
 
+
 ## Tech Stack & Technology used
 - Yearn Finance 
 - Alchemy
@@ -24,3 +25,9 @@ This is done on; Alchemix, Abracadabra and Yearn lending platforms. This version
 ![Screenshot_20220303_191102](https://user-images.githubusercontent.com/81178958/162507852-a3f0c407-22bc-4a7c-8def-034a0412ec5f.png)
 ![Screenshot_20220303_185641](https://user-images.githubusercontent.com/81178958/162507855-9a3d26e7-eb7a-47d9-8358-ce9f686c59f6.png)
 ![Fluo UI](https://user-images.githubusercontent.com/81178958/162507856-559d3034-1a25-4dd0-bb8a-4f30edc00fec.png)
+
+DISCLAIMER: This is a demo codebase from our private repositories for the above project. Contact us for more information if you find this dApp of interest.
+
+Relevant Blockchains: Ethereum
+
+dApp Completion date: 23.03.2022
